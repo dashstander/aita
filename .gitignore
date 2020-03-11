@@ -130,3 +130,7 @@ dmypy.json
 
 #Not checking in credentials
 credentials.json
+models/
+data/
+.vscode/
+.DS_Store
